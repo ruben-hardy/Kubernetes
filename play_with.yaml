@@ -1,0 +1,15 @@
+---
+- mylist:
+    grocery
+    computer
+    laptop
+    mobile phone
+    bags
+    model: tesla
+- largest:
+    ringer: loud
+    sound: muted
+- nestedlsit:
+    - malist:
+        test
+        rocket
